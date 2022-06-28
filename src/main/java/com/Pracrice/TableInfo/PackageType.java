@@ -43,5 +43,4 @@ public class PackageType {
         this.name = name;
     }
 
-    // Reverse Engineering! Migrate other columns to the entity
 }
